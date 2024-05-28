@@ -14,3 +14,6 @@ I learned how to use VS Code
 I learned how to use GitHub! 
 ![Lightsaber](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.JudpWwMgvaqrz05DFhq0ugHaHa%26pid%3DApi&f=1&ipt=a70f2a4496608153f6b12ae942b9913b1e4569fe69b732f0ac128e9c87e652d0&ipo=images)
 
+###### Gabriela Erazo
+*I learned git push and pull!*
+![Jututsu Kaisen](https://images6.fanpop.com/image/photos/43800000/Jujutsu-Kaisen-jujutsu-kaisen-43895113-1920-1080.jpg)
