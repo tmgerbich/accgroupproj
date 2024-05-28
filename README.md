@@ -9,3 +9,7 @@ I learned how to use git rebase!
 #### Jason Worthy
 I learned how to use VS Code
 ![Bleach](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages4.fanpop.com%2Fimage%2Fphotos%2F17200000%2FIchigo-bleach-anime-17298866-1727-2560.jpg&f=1&nofb=1&ipt=4671c9ce7c38cd795b83ed14b2815dd5b12849400be30480705283dc222b5ff5&ipo=images)
+
+##### Patrick Xiong
+I learned how to use GitHub! 
+![Lightsaber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtppzxcx9zt8aLLfezUNtmtxwVKn4iHP7eA&s)
