@@ -12,4 +12,5 @@ I learned how to use VS Code
 
 ##### Patrick Xiong
 I learned how to use GitHub! 
-![Lightsaber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtppzxcx9zt8aLLfezUNtmtxwVKn4iHP7eA&s)
+![Lightsaber](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.JudpWwMgvaqrz05DFhq0ugHaHa%26pid%3DApi&f=1&ipt=a70f2a4496608153f6b12ae942b9913b1e4569fe69b732f0ac128e9c87e652d0&ipo=images)
+
